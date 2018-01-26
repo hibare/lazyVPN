@@ -5,8 +5,24 @@ This repository contains two files: install.sh and uninstall.sh. These files doe
 The src directory contains the scripts to start, stop and check status of the VPN.
 
 ## Installation
-To install and configure openVPN, execute install.sh file using following command.
+To install and configure openVPN, execute install.sh file using following command:
 ```shell
 sudo sh install.sh
 ```
+> Note: A working internet connection is required for successful installation.
+
+![](http://hibare.in/img/github/openvpn1.png)
+
+## Uninstalltion
+To uninstall openVPN, execute uninsall.sh file using following command:
+```shell
+sudo sh uninstall.sh
+```
+
+![](http://hibare.in/img/github/openvpn2.png)
+
+> Note:
+> 1. Installation process generate a log file named installLogs.txt, which contains all the installation logs.
+> 2. Uninstallation process also generates a log file name uninstallLogs.txt, which contains all the uninstallation logs.
+
 
