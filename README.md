@@ -11,7 +11,7 @@ sudo sh install.sh
 ```
 > Note: A working internet connection is required for successful installation.
 
-![](http://hibare.in/img/github/openvpn1.png)
+![](http://hibare.in/img/github/openvpn3.png)
 
 ## Uninstalltion
 To uninstall openVPN, execute uninsall.sh file using following command:
