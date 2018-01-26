@@ -6,5 +6,7 @@ The src directory contains the scripts to start, stop and check status of the VP
 
 ## Installation
 To install and configure openVPN, execute install.sh file using following command.
-`sudo install.sh`
+```shell
+sudo sh install.sh
+```
 
