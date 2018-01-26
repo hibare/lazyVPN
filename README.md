@@ -25,4 +25,6 @@ sudo sh uninstall.sh
 > 1. Installation process generate a log file named installLogs.txt, which contains all the installation logs.
 > 2. Uninstallation process also generates a log file name uninstallLogs.txt, which contains all the uninstallation logs.
 
+> For any feedback, suggestion and queries please [Click here](http://hibare.in) and click on contact at upper-left corner.
+
 
