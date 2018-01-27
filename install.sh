@@ -124,7 +124,7 @@ writeLog $arrowMark $CYAN "Creating_links"
 ln -s $HOME/.crazyScripts/openVPN/openvpn-start.sh /bin/vpn-start > /dev/null 2>&1
 ln -s $HOME/.crazyScripts/openVPN/openvpn-stop.sh /bin/vpn-stop > /dev/null 2>&1
 ln -s $HOME/.crazyScripts/openVPN/openvpn-status.sh /bin/vpn-status > /dev/null 2>&1
-checkError "Create" "Failed" "exit"
+checkError "Created" "Failed" "exit"
 
 writeLog $checkMark $GREEN "PROCESS_COMPLETED!\n"
 
