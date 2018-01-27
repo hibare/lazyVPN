@@ -6,10 +6,6 @@ arrowMark='>'
 skullMark='☠'
 logFile="uninstallLogs.txt"
 
-#Credentials
-username="vpnbook"
-password="x"
-
 #Declaring color variables
 CYAN='\033[0;36m'       #CYAN COLOUR
 NC='\033[0m'            #NO COLOUR
