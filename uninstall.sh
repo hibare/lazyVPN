@@ -45,7 +45,7 @@ clear
 
 #Banner
 echo "======================================================"
-echo "+               Establishing tunnel                  +"
+echo "+               Uninstalling openVPN                 +"
 echo "======================================================"                                                  
 echo "
 	 ${CYAN}.o88b. d8888b.  .o888b. .d888b. db    db 
