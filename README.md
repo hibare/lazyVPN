@@ -1,4 +1,7 @@
 # Install and use openVPN on UBUNTU without any problem
+
+[![Say Thanks!](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://saythanks.io/to/hibare)
+
 This repository contains scripts that installs openVPN and set it up by downloading ovpn files from vpnbook. It also create commands to easily start and stop the VPN.
 
 This repository contains two files: install.sh and uninstall.sh. These files does what their name suggest.
